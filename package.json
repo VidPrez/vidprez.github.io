@@ -1,0 +1,104 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "minstyle.io",
+        "scope": null,
+        "escapedName": "minstyle.io",
+        "name": "minstyle.io",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/kellyhaydon"
+    ]
+  ],
+  "_from": "minstyle.io@latest",
+  "_hasShrinkwrap": false,
+  "_id": "minstyle.io@1.1.0",
+  "_inCache": true,
+  "_location": "/minstyle.io",
+  "_nodeVersion": "10.15.2",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/minstyle.io_1.1.0_1602011567916_0.04443883685410621"
+  },
+  "_npmUser": {
+    "name": "airmime",
+    "email": "r.marion42@hotmail.fr"
+  },
+  "_npmVersion": "6.14.7",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "minstyle.io",
+    "scope": null,
+    "escapedName": "minstyle.io",
+    "name": "minstyle.io",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/minstyle.io/-/minstyle.io-1.1.0.tgz",
+  "_shasum": "55845858c8387891c4adca6c818a1f750cf3feec",
+  "_shrinkwrap": null,
+  "_spec": "minstyle.io",
+  "_where": "/Users/kellyhaydon",
+  "author": {
+    "name": "Rémi MARION"
+  },
+  "bugs": {
+    "url": "https://github.com/Airmime/minstyle.io/issues"
+  },
+  "dependencies": {},
+  "description": "A simple CSS Framework, including dark theme.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-fw9lbzjnRTviw9E6/gVzK8QEErR4wSujuBRHcFPWp9Z/+d+QOFnmH7b4vYWusb9io+ylXzYMZIbKqehYH6eQZg==",
+    "shasum": "55845858c8387891c4adca6c818a1f750cf3feec",
+    "tarball": "https://registry.npmjs.org/minstyle.io/-/minstyle.io-1.1.0.tgz",
+    "fileCount": 31,
+    "unpackedSize": 421664,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJffMGwCRA9TVsSAnZWagAArhEP/jgjQnl/L+0njtF9c9uX\nO3QS16Vs5U2gi2gVGjaEv+98NxAIzGyQGlWcXQK9smE8YdeHXVtAOuQEn6yi\nNZBaegA/j2AEgR3a5ijKMjieAdJl3uCA8arzhHa+S7vX/bLdo2f49f53TxmT\n1Lw/GGhyZyQuEgEAy45Uv3DdMIfRHr/fxKl403XCitK4XPkeCgDA1KZS8dVa\nNeOJ4ZxdeKZwgif0SJ7wvHllNczB93kIvDEHbZ2NILk6CjvmirNAdthMJCZE\nC4Ag+D2ayNA0CE9aHvMSaJ8WBScvsoijE/ZaxNwpIV0oytGZZbF8BaUz00Fr\njhP0DM6kjLc8t9tNhbyGhamvO/Q+znqdhQgy48DWaJch6d36mv5tItFd2ccP\nGRXb17s8ZR8JOJNNZT0DUOCtb/mOd9b5M3rc/iRdaFK9IPVH/mKxw6Ht0vli\nznOiZKQGNUPJ5SF/Z59RxYzOMHpeojaHgtYWGwwC6dZ3Up7aFJ7QqdZ71ohY\nvSOqb31dhtj3GXjCCiIoOlj35iO3rdujs6yzAMTiFqPtO/G1Zf8eeHCNxtS3\nXYjGVVz17Rpi4aF8QIdK+AApmVTmwjwOyD9UWw2s+wfQT7BDTmxdo8BGnsGC\nk8YWdez+TUYQQw3XZw0VVWGOfeYDqF8kPpZvQOuIRrk6bnI10pQEKEVgq5cs\neggS\r\n=DFFa\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "gitHead": "bc45961ff1cee74ff351f5e1187e7acaccc2145a",
+  "homepage": "https://minstyle.io",
+  "keywords": [
+    "minstyle",
+    "dark-theme",
+    "dark",
+    "minstyle.io",
+    "css",
+    "framework",
+    "css",
+    "simple",
+    "design",
+    "html",
+    "interface",
+    "front-end",
+    "responsive",
+    "sass",
+    "scss",
+    "html",
+    "html5"
+  ],
+  "license": "MIT",
+  "main": "css/minstyle.io.css",
+  "maintainers": [
+    {
+      "name": "airmime",
+      "email": "r.marion42@hotmail.fr"
+    }
+  ],
+  "name": "minstyle.io",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Airmime/minstyle.io.git"
+  },
+  "version": "1.1.0"
+}
